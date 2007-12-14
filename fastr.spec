@@ -49,7 +49,7 @@ The formalism of Fastr is close to PATR-II.
 
 %build
 aclocal-1.8
-autoconf-2.5x
+autoconf
 automake-1.8
 %configure2_5x
 %make
