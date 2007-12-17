@@ -15,7 +15,6 @@ URL:		http://www.limsi.fr/Individu/jacquemi/FASTR/
 License:	GPL
 Group:		Sciences/Computer science
 BuildRequires:	automake1.8
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 Fastr is a parser for term and variant recognition. Fastr take as input a
