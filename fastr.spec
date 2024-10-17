@@ -11,7 +11,7 @@ Patch0:		%{name}-2.04.source.patch.bz2
 Patch1:		%{name}-2.04.config.patch.bz2
 Patch2:		%{name}-2.04.autotools.patch.bz2
 Patch3:		%{name}-2.04.autotools.bis.patch.bz2
-URL:		http://www.limsi.fr/Individu/jacquemi/FASTR/
+URL:		https://www.limsi.fr/Individu/jacquemi/FASTR/
 License:	GPL
 Group:		Sciences/Computer science
 BuildRequires:	automake1.8
