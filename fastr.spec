@@ -14,6 +14,9 @@ Patch3:		%{name}-2.04.autotools.bis.patch.bz2
 URL:		https://www.limsi.fr/Individu/jacquemi/FASTR/
 License:	GPL
 Group:		Sciences/Computer science
+BuildRequires:	autoconf
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
 BuildRequires:	automake1.8
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
