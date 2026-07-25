@@ -1,6 +1,6 @@
 %define name	fastr
 %define version	2.04
-%define release	%mkrel 12
+%define release 13
 
 Name:		%{name}
 Version:	%{version}
